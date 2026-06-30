@@ -14,7 +14,7 @@ My goal is to land a role in AI Engineering or Backend Development where I'm bui
 
 * 🌍  I'm based in Calgary, Alberta
 * ✉️  You can contact me at [balitajosshua@gmail.com](mailto:balitajosshua@gmail.com)
-* 🧠  I'm currently studying BSc Computer Science at the University of Lethbridge
+* 🧠  I'm currently studying BSc Computer Science
 * 👥  I'm open to collaborating on projects and internship roles!
 * 💬  Ask me about why LeBron is still the GOAT 🐐
 
